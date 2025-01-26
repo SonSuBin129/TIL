@@ -9,4 +9,4 @@
 
 ## Python
 
-- [list와 set의 탐색 속도 차이](https://github.com/SonSuBin129/TIL/blob/4ffcd7174921c70c12be0ebb6e09a17b1e909fda/Python/list%EC%99%80%20set%EC%9D%98%20%ED%83%90%EC%83%89%20%EC%86%8D%EB%8F%84%20%EC%B0%A8%EC%9D%B4.md)
+- [list와 set의 탐색 속도 차이](https://github.com/SonSuBin129/TIL/blob/3d60c69237bfce10ffdb977b0b8a8675572e63f7/Python/list%EC%99%80%20set%EC%9D%98%20%ED%83%90%EC%83%89%20%EC%86%8D%EB%8F%84%20%EC%B0%A8%EC%9D%B4.md)

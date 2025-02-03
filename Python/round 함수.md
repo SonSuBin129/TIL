@@ -48,6 +48,17 @@ def roundUp(num):
 ```
 
 <br/>
+아니면 `Decimal` 모듈을 사용하는 방법도 있다.
+
+```python
+from decimal import *
+# 0.5 반올림하게 하는 세팅
+getContext().rounding = decimal.ROUND_HALF_UP
+
+print(round(Decimal(2,5),0))
+```
+
+<br/>
 
 ## 🧷 참조
 

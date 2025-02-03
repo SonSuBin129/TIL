@@ -48,6 +48,7 @@ def roundUp(num):
 ```
 
 <br/>
+
 아니면 `Decimal` 모듈을 사용하는 방법도 있다.
 
 ```python

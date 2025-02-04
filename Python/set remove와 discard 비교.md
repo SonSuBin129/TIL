@@ -19,4 +19,4 @@ a.discard(5) # 정상 종료
 a.remove(5) # KeyError 발생
 ```
 
-![alt text](image.png)
+![alt text](./source/image.png)

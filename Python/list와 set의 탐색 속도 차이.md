@@ -16,6 +16,7 @@ list처럼 배열의 순서를 돌면서 탐색하는 것이 아니라, <br/>
 
 > **NOTE** <br/>
 > list는 삭제할때 O(N)이지만, set과 dictionary는 O(1)이다.
+> list의 인덱싱 a[i] 같은 경우는 O(1)이다.
 
 <br/>
 

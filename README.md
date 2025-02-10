@@ -13,8 +13,3 @@
 - [list 비교](https://github.com/SonSuBin129/TIL/blob/fe67614bc6b850f53a273dfda94410d0580a89a8/Python/list%20%EB%B9%84%EA%B5%90.md)
 - [round 함수](https://github.com/SonSuBin129/TIL/blob/102b50458725400b9a1cbfb563027c4ab1ac6478/Python/round%20%ED%95%A8%EC%88%98.md)
 - [set remove와 discard 비교](https://github.com/SonSuBin129/TIL/blob/a19eb7622e0b72415edbea768573fff41b79fd22/Python/set%20remove%EC%99%80%20discard%20%EB%B9%84%EA%B5%90.md)
-
-<br/><br/>
-
-## 프론트엔드(FE)
-- [좋은 코드란?]()
